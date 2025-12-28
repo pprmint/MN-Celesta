@@ -5,5 +5,4 @@
 # Names should be added to this file as:
 # Rodrigo Fuenzalida <fuenzarodrigo@gmail.com>
 # Jordan Egstad <jordan.egstad@instrument.com>
-
-
+# pprmint. <mail@pprmint.de>
