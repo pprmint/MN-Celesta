@@ -6,17 +6,30 @@ A sharp display serif adapted from the lovely [Instrument Serif](https://github.
 
 ## Changes.
 
-<p align="center"><img src="./docs/sharp.svg" width="300"/></p>
+<img align="right" src="./docs/sharp.svg" width="300"/>
 
-The main difference between Instrument Serif and MN Celesta is that Celesta doesn't have as many rounded corners. Some bumps in certain glyphs have also been flattened.
+### Sharper.
+The main difference between Instrument Serif and MN Celesta is that Celesta isn't as soft. The serifs are pointier, corners are sharper and some bumps in certain glyphs like the `Z` and `7` have also been flattened.
 
-<p align="center"><img src="./docs/hook.svg" width="300"/></p>
+Sure, Garamond might've been a soft guy, but my website's edgy.
 
-The terminals found in glyphs like `a`, `d` and `t` have been changed to be a little stubbier and not go straight up, similar to the ss01 stylistic set found in the original font. The bottom end of the `l` has also been given this hook, though the original flat version is still available as a character variant.
+---
 
-<p align="center"><img src="./docs/rev.svg" width="300"/></p>
+<img align="right" src="./docs/hook.svg" width="300"/>
 
-The balance of some glyphs has been adjusted to make them slightly less bottom-heavy. Select glyphs like the `Q` have been redesigned more substantially, but their previous designs are still available as character variants.
+### Stubbier.
+The terminals found in glyphs like `a`, `d` and `t` have been changed to be a little stubbier and not go straight up, similar to the ss01 stylistic set found in the original font. The bottom end of the `l` has also been given this hook.
+
+If you prefer the original flat version, it's still available as a character variant.
+
+---
+
+<img align="right" src="./docs/rev.svg" width="300"/>
+
+### Sleeker.
+Subjectively, of course. The balance of some glyphs has been adjusted to make them slightly less bottom-heavy. Others have been changed a bit more substantially, like the `3` looking a bit more conventional, or the `Q` with a new tail at the bottom.
+
+If you prefer the original design of the `Q`, it's still available as character variants as well.
 
 ## Language support.
 
