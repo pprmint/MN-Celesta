@@ -9,27 +9,23 @@ A sharp display serif adapted from the lovely [Instrument Serif](https://github.
 <img align="right" src="./docs/sharp.svg" width="300"/>
 
 ### Sharper.
-The main difference between Instrument Serif and MN Celesta is that Celesta isn't as soft. The serifs are pointier, corners are sharper and some bumps in certain glyphs like the `Z` and `7` have also been flattened.
+The main difference between Instrument Serif and MN Celesta is that Celesta isn't as soft. The serifs are pointier and corners are angular and bumps in the likes of `Z` and `7` have been flattened.
 
-Sure, Garamond might've been a soft guy, but my website's edgy.
-
----
+&nbsp;
 
 <img align="right" src="./docs/hook.svg" width="300"/>
 
 ### Stubbier.
-The terminals found in glyphs like `a`, `d` and `t` have been changed to be a little stubbier and not go straight up, similar to the ss01 stylistic set found in the original font. The bottom end of the `l` has also been given this hook.
+The terminals found in glyphs like `a`, `d` and `t` have been changed to be a little stubbier and not go straight up, similar to the ss01 stylistic set of Instrument Serif. The `l` has also received this hook.
 
-If you prefer the original flat version, it's still available as a character variant.
-
----
+&nbsp;
 
 <img align="right" src="./docs/rev.svg" width="300"/>
 
-### Sleeker.
-Subjectively, of course. The balance of some glyphs has been adjusted to make them slightly less bottom-heavy. Others have been changed a bit more substantially, like the `3` looking a bit more conventional, or the `Q` with a new tail at the bottom.
+### Subjectively sleeker.
+The balance of certain glyphs like `B` and `3` has been adjusted to make them less bottom-heavy. Other glyphs have been changed more noticeably, such as the `Q` which got a new tail at the bottom.
 
-If you prefer the original design of the `Q`, it's still available as character variants as well.
+&nbsp;
 
 ## Language support.
 
