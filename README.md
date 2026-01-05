@@ -9,7 +9,7 @@ A sharp display serif adapted from the lovely [Instrument Serif](https://github.
 <img align="right" src="./docs/sharp.svg" width="300"/>
 
 ### Sharper.
-The main difference between Instrument Serif and MN Celesta is that Celesta isn't as soft. The serifs are pointier and corners are angular and bumps in the likes of `Z` and `7` have been flattened.
+The main difference between Instrument Serif and MN Celesta is that Celesta isn't as soft. The serifs are pointier, corners are more angular and bumps in the likes of `Z` and `7` have been flattened.
 
 &nbsp;
 
