@@ -1,4 +1,4 @@
-# MN Celesta <a href="https://pprmint.de/projects/celesta" target="_blank"><img align="right" height="40" src="./docs/logo.svg"></a>
+# MN Celesta <a href="https://pprmint.de/fonts/celesta" target="_blank"><img align="right" height="40" src="./docs/logo.svg"></a>
 
 A sharp display serif adapted from the lovely [Instrument Serif](https://github.com/Instrument/instrument-serif) font to match my own preferences. Still work in progress.
 
